@@ -26,10 +26,10 @@ const DATE = 'date';
 
 const serverUrl = 'wss://airquality-production.up.railway.app';
 const originHeader = 'http://localhost:3000';
-const userId = '8e234a60-4b52-431a-8c33-98fac1bca3a9';
+const userId = 'FqCd9KAK16YDMolRQ1O4HHqHXS43';
 const queryObject = {
     id: userId,
-    moduleId: 1,
+    moduleId: 2,
     sensorId: 1
 };
 
